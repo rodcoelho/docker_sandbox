@@ -1,3 +1,6 @@
+# https://docs.docker.com/get-started/part2/#conclusion-of-part-two
+
+
 # Use an official Python runtime as a parent image
 # image from docker hub
 FROM python:3.5.5-jessie
