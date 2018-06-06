@@ -1,6 +1,6 @@
 # Use an official Python runtime as a parent image
-#FROM python:2.7-slim
-FROM python:
+# image from docker hub
+FROM python:3.5.5-jessie
 
 # Set the working directory to /app
 WORKDIR /app
